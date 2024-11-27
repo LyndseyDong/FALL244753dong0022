@@ -1,4 +1,8 @@
-#' Central Limit Theorem - Binomial
+#' @title Central Limit Theorem - Binomial
+#'
+#' @description
+#' Simulates the Central Limit Theorem by generating multiple binomial samples, calculating the means, and plotting a histogram of these means.
+#'
 #'
 #' @param n  Defines how many trials are performed in each binomial sample.
 #' @param iter The number of samples that the function will generate.

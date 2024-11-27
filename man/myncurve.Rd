@@ -17,7 +17,7 @@ myncurve(mu, sigma, a)
 A list that has the mean, standard deviation, probability, and a graph of the shaded curve
 }
 \description{
-myncurve
+Visualizes the normal distribution for a given mean and standard deviation and calculates the probability for a specified upper bound.
 }
 \examples{
 \dontrun{myncurve(mu=10,sigma=5, a=6)}

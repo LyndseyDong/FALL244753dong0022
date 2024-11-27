@@ -1,4 +1,8 @@
-#' Confidence Interval Function
+#' @title Confidence Interval Function
+#'
+#' @description
+#' Calculates a confidence interval for the mean of the dataset "x" based on a specified significance level.
+#'
 #'
 #' @param x Random data that you want to create a confidence interval for
 #' @param alpha The alpha value of the function

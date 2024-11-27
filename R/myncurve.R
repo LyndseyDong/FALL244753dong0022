@@ -1,6 +1,10 @@
 utils::globalVariables("x")
 #' @title myncurve
 #'
+#' @description
+#' Visualizes the normal distribution for a given mean and standard deviation and calculates the probability for a specified upper bound.
+#'
+#'
 #' @param mu The mean of the normal distribution
 #' @param sigma The standard deviation of the normal distribution
 #' @param a The upper bound of the shaded region

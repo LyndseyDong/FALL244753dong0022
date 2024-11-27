@@ -19,7 +19,7 @@ scatterhist(x, y, xlab = "", ylab = "")
 A sophisticated plot
 }
 \description{
-Scatter Histogram
+Creates a plot that combines a scatter plot with histograms for both X and Y variables.
 }
 \examples{
 \dontrun{with(ddt, scatterhist(LENGTH,WEIGHT, xlab="LENGTH"))}

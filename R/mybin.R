@@ -1,4 +1,7 @@
-#' mybin Function
+#' @title mybin Function
+#'
+#' @description
+#' Simulates binomial outcomes for a specified number of iterations and sample size with a given probability of success. It generates a bar graph displaying the proportions of successes across all iterations.
 #'
 #' @param iter A variable indicating the number of desired iterations.
 #' @param n Number of desired sample size per iteration

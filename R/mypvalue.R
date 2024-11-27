@@ -1,4 +1,8 @@
-#' Title
+#' @title mypvalue Function
+#'
+#' @description
+#' Calculates the p-value for the given observed t-statistic and plots the t-distribution curve.
+#'
 #'
 #' @param t0 The observed t-statistic, that is tcalc
 #' @param xmax The maximum value of x on the plot

@@ -1,5 +1,10 @@
 #' @title Scatter Histogram
 #'
+#' @description
+#' Creates a plot that combines a scatter plot with histograms for both X and Y variables.
+#'
+#'
+#'
 #' @param x X variable as a vector
 #' @param y Y variable as a vector
 #' @param xlab X label

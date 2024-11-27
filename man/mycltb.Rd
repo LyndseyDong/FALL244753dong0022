@@ -19,7 +19,7 @@ mycltb(n, iter, p = 0.5, ...)
 Outputs a histogram plot showing the distribution with a theoretical normal curve
 }
 \description{
-Central Limit Theorem - Binomial
+Simulates the Central Limit Theorem by generating multiple binomial samples, calculating the means, and plotting a histogram of these means.
 }
 \examples{
 \dontrun{mycltb(n = 10, iter = 10000, p = 0.3)}

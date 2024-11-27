@@ -1,4 +1,8 @@
-#' @title ntickets
+#' @title ntickets Function
+#'
+#' @description
+#' Determines the optimal number of tickets to sell for a flight, given the total number of seats and overbooking probability, and the probability of a passenger showing up.
+#'
 #'
 #' @param N Number of seats in the flight
 #' @param gamma The probability a plane will be truly overbooked

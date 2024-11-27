@@ -2,7 +2,7 @@
 % Please edit documentation in R/ntickets.R
 \name{ntickets}
 \alias{ntickets}
-\title{ntickets}
+\title{ntickets Function}
 \usage{
 ntickets(N, gamma, p)
 }
@@ -17,7 +17,7 @@ ntickets(N, gamma, p)
 A list containing N, gamma, p, nc (normal approximation), and nd (discrete distribution), where nc and nd is the calculation of the number of tickets to be sold. Creates two plots for the normal approximation and discrete distribution.
 }
 \description{
-ntickets
+Determines the optimal number of tickets to sell for a flight, given the total number of seats and overbooking probability, and the probability of a passenger showing up.
 }
 \examples{
 \dontrun{ntickets(400, 0.02, 0.95)}

@@ -23,7 +23,7 @@ myboot2(iter = 10000, x, fun = "mean", alpha = 0.05, cx = 1.5, ...)
 An invisible list of ci, fun, and x along with a histogram plot
 }
 \description{
-Bootstrap Function 2
+Performs a bootstrap simulation to calculate confidence intervals for a use-defined statistic, that is fun, applied to a dataset. This is the better looking function.
 }
 \examples{
  \dontrun{myboot2(x = sam, fun = "mean", alpha = 0.05, xlab = "mean", col = "palegoldenrod")}

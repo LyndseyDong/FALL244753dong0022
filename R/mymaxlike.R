@@ -1,4 +1,8 @@
-#' Max Likelihood
+#' @title Max Likelihood
+#'
+#' @description
+#' Calculates the maximum likelihood estimate for the given likelihood function and dataset.
+#'
 #'
 #' @param lfun The function to focus on
 #' @param x The data being passed to the function

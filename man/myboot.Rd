@@ -21,7 +21,7 @@ myboot(iter = 10000, x, fun = "mean", alpha = 0.05, ...)
 A list of ci, x, and fun along with a plot of the bootstrap
 }
 \description{
-Bootstrap Function
+Performs a bootstrap simulation to compute confidence intervals for a statistic applied to a dataset.
 }
 \examples{
 \dontrun{myboot(x = sam, fun = "mean", alpha = 0.05, xlab = "mean", col = "palegoldenrod")}

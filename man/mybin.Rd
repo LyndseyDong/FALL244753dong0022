@@ -17,7 +17,7 @@ mybin(iter = 100, n = 10, p = 0.5)
 A barplot of the binomial simulation
 }
 \description{
-mybin Function
+Simulates binomial outcomes for a specified number of iterations and sample size with a given probability of success. It generates a bar graph displaying the proportions of successes across all iterations.
 }
 \examples{
 \dontrun{mybin(iter=1000,n=18, p=0.3)}

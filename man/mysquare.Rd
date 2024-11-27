@@ -13,7 +13,7 @@ mysquare(x)
 a vector of qualitative data
 }
 \description{
-The Square Function
+Calculates the squared value of the given numeric data
 }
 \examples{
 mysquare(x = 1:10)

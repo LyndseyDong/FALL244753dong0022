@@ -1,4 +1,8 @@
-#' The Square Function
+#' @title The Square Function
+#'
+#' @description
+#' Calculates the squared value of the given numeric data
+#'
 #'
 #' @param x a vector of quantitiative data
 #'

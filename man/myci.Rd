@@ -15,7 +15,7 @@ myci(x, alpha = 0.05)
 A confidence interval with the given data and alpha value
 }
 \description{
-Confidence Interval Function
+Calculates a confidence interval for the mean of the dataset "x" based on a specified significance level.
 }
 \examples{
 \dontrun{myci(x, alpha = 0.05)}

@@ -19,7 +19,7 @@ mymaxlike(lfun, x, param, ...)
 The max likelihood for the provided parameters in a list and plots the graph
 }
 \description{
-Max Likelihood
+Calculates the maximum likelihood estimate for the given likelihood function and dataset.
 }
 \examples{
 \dontrun{mymaxlike(x = c(4, 6, 7, 6, 5), param = seq(0, 20, length = 1000), lfun = logpoiss, xlab = expression(lambda), main = "Poisson", cex.main = 2)}

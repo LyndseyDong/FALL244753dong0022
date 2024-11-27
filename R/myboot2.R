@@ -1,4 +1,8 @@
-#' Bootstrap Function 2
+#' @title Bootstrap Function 2
+#'
+#' @description
+#' Performs a bootstrap simulation to calculate confidence intervals for a use-defined statistic, that is fun, applied to a dataset. This is the better looking function.
+#'
 #'
 #' @param iter The number of iterations
 #' @param x The data vector provided
